@@ -1,0 +1,2 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (Camera.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  Camera.vcxproj -> C:\Users\Matheus\source\repos\Exercicios GA\Exercicios\Exercicios\Debug\Exercicios.exe
